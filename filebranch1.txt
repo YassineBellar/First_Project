@@ -1,1 +1,2 @@
-Fonctionnalite de Branche1 - version 1.
+Fonctionnalite de Branche1 - version 2.
+Ajout de la validation des donnees.
